@@ -1,0 +1,16 @@
+{
+  "name": "obpack",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": {
+    "name": "Anderson Denis da Rosa",
+    "email": "andersondrosa@outlook.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/obpack/obpack.git"
+  }
+}
